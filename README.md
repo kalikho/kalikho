@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Broad Areas of Blockchain Research and Development**
 
-- 🤝 I’m looking for help with **Blockchain Research, Smart Contract Development**
+- 🤝 I’m willing to help you with **Blockchain Research, Smart Contract Development**
 
 - 💬 Ask me about **Blockchain, Smart Contracts, Crypto**
 
