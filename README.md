@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/_kalikho_" target="blank"><img src="https://img.shields.io/twitter/follow/_kalikho_?logo=twitter&style=for-the-badge" alt="_kalikho_" /></a> </p>
 
-- 🔭 I’m currently working on **Integration of Blockchain with IoT**
+- 🔭 I’m currently working on **Integration of Blockchain with IoT | Privacy and Scalability Issues in Blockchains**
 
-- 👯 I’m looking to collaborate on **Blockchain Research and Development**
+- 👯 I’m looking to collaborate on **Broad Areas of Blockchain Research and Development**
 
 - 🤝 I’m looking for help with **Blockchain Research, Smart Contract Development**
 
