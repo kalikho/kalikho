@@ -15,7 +15,7 @@
 
 <h3 align="left">Find me on Google Scholar:</h3>
 <p align="left">
-<a href="https://scholar.google.com/citations?user=Oe3rvFUAAAAJ&hl=en&oi=sra" target="blank"><img align="center" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=Oe3rvFUAAAAJ&hl=en&oi=sra" target="blank"><img align="center" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
