@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **roshansingh3000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on Google Scholar:</h3>
 <p align="left">
-<a href="https://twitter.com/_kalikho_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kalikho_" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=Oe3rvFUAAAAJ&hl=en&oi=sra" target="blank"><img align="center" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
