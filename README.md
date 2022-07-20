@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roshansingh3000@gmail.com**
 
-<h3 align="left">Find my research on <a href="https://scholar.google.com/citations?user=Oe3rvFUAAAAJ&hl=en&oi=sra" target="blank"><img align="center" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" height="30" width="105" /></a>
+<h3 align="left">Find my research on <a href="https://scholar.google.com/citations?user=Oe3rvFUAAAAJ&hl=en&oi=sra" target="blank"><img align="center" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" height="30" width="110" /></a>
 </h3>
 
 
