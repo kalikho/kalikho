@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Singh</h1>
-<h3 align="center">Blockchain Researcher | M.Tech @ IIT Guwahati | Assistant Project Engineer @ OSINT Lab</h3>
+<h3 align="center">Blockchain Researcher | M.Tech @ IIT Guwahati | Network Systems and Security Lab | Ex-Assistant Project Engineer @ OSINT Lab</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalikho&label=Profile%20views&color=0e75b6&style=flat" alt="kalikho" /> </p>
 
